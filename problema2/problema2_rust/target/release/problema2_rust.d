@@ -1,0 +1,1 @@
+/mnt/55602cb8-0ab2-4adb-8ec2-3d3cecce4143/Programacion/Prueba_diagnostica/problema2/problema2_rust/target/release/problema2_rust: /mnt/55602cb8-0ab2-4adb-8ec2-3d3cecce4143/Programacion/Prueba_diagnostica/problema2/problema2_rust/src/main.rs
